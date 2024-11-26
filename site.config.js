@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `bobaejin's Notion Blog`,
       href: "https://github.com/bobaej1n/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "bobaejin's Notion Blog",
+    description: "bobaejin's Notion Blog",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
 
@@ -31,7 +31,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: process.env.14ae92206ee180549c07e1fecff858dd,
   },
 
   // plugin configuration (optional)
