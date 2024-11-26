@@ -56,7 +56,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: process.env.14ae92206ee180549c07e1fecff858dd || "",
+      repo: "bobaej1n/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
